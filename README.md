@@ -1,4 +1,4 @@
-# КУРС "Data Scientist с нуля до PRO"
+# КУРС "Data Scientistс нуля до PRO"
 
 НАВЫКИ В ПРОЦЕССЕ ОБУЧЕНИЯ:
 —Программировать на Python
@@ -25,3 +25,6 @@ Seaborn
 Numpy
 PandasSql
 python
+
+
+[угадай число](game.py)
