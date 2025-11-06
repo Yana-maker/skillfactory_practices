@@ -27,4 +27,4 @@ PandasSql
 python
 
 
-[угадай число](game.py)
+[ПРОЕКТ № 1 -> "угадай число"](game.py)
